@@ -26,7 +26,7 @@ SECRET_KEY = 'nb#ytq+meqn+0$&5horitq80l6-daz+@c7w2up@03=ms(z2(x+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://cads-mc.herokuapp.com/']
+ALLOWED_HOSTS = ['https://cads-lunch.herokuapp.com/']
 
 
 # Application definition
